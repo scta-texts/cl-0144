@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>0144 - SEquuntur mandata synodalia pro domino episcopo facta per officialem AEduensem, synodum tenentem AEduae pro dicto episcopo in eadem synodo hyemali.</title>
+        <author>Anonymous</author>
+        <editor>Rowan</editor>
+        <!-- 
+         Record ID: 0144
+          Date: 1316
+          Location: Autun
+          Source: Martene, Thesaurus, IV, cols. 494-95
+          
+          Transcribed by: Different Hand Ltd
+          Date Started: 19 Dec 2016
+          Date Finished: 1 Feb 2017
+          Reviewed RWD: 4 Feb 2017
+          Problems or Queries:
+          
+          Notes:
+          
+        -->
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>0144 - SEquuntur mandata synodalia pro domino episcopo facta per officialem AEduensem, synodum tenentem AEduae pro dicto episcopo in eadem synodo hyemali.</title>
+          <date when="2014-04-14">April 04, 2014</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority/>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="T4" n="thesIV1717">Martene, Thesaurus, IV, cols. 494-95</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 
+          guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-04-14" status="draft" n="0.0.0">
+          <p>File Started for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      
+      <div xml:id="starts-on">
+        <pb ed="#T4" n="247"/>
+        <cb ed="#T4" n="b"/> <!-- col 494 -->
+      </div>
+    </front>
+    <body>
+      <div xml:id="cl-0144-1">
+        <head xml:id="cl-0144-1-Hd1e100">SEquuntur mandata synodalia pro domino episcopo facta per officialem AEduensem, synodum tenentem AEduae pro dicto episcopo in eadem synodo hyemali.</head>
+        <p xml:id="cl-0144-1-d1e103">
+          SEquuntur mandata synodalia pro domino episcopo facta per officialem AEduensem, synodum tenentem AEduae pro dicto episcopo in eadem synodo hyemali.
+        </p>
+        <p xml:id="cl-0144-1-d1e106">
+          (1) Omnes archipresbyteros episcopus AEduensis hic non astantes auctoritate domini episcopi in his scriptis excommunicamus, et excommunicati publice nuntientur. 
+        </p>
+        <p xml:id="cl-0144-1-d1e109">
+          (2) Item, alias fuit injunctum archipresbyteris ex parte domini episcopi, quod visitarent ecclesias parochiales suorum archipresbyteratuum, pro dicto domino episcopo, et post visitationem redderent rationem suae visitationis domino episcopo vel ejus officio; quod non fecerunt: unde dominus episcopus dolet, et propter hoc sententiam excommunicationis incurrent et incurrunt, nisi fecerint super hoc quod incumbit. 
+        </p>
+        <p xml:id="cl-0144-1-d1e112">
+          (3) Item, injunctum fuit eisdem quod saisirent omnes fructus ecclesiae curatorum non residentium in eisdem; quod similiter non fecerunt: et ob hoc sententiam excommunicationis incurrunt, et incurrent, nisi fecerint quod incumbit. 
+        </p>
+        <p xml:id="cl-0144-1-d1e116">
+          (4) Item, sub poena excommunicationis fuit dictis archipresbyteris injunctum alias, quod afferrent testamenta et inventoria curatorum suorum archipresbyteratuum decedentium, quod non fecerunt: et propter hoc injungimus eisdem, quod omnia praemissa, ut praemittitur, injuncta faciant sub poena x. librarum domino episcopo applicandarum contra non parentes in eisdem. 
+        </p>
+        <p xml:id="cl-0144-1-d1e119">
+          (5) Item, praecipit dominus episcopus quod fructus beneficiorum residentiam deposcentium ab ipsis archipresbyteris mittantur sigillifero AEduensi. 
+        </p>
+        <p xml:id="cl-0144-1-d1e122">
+          (6) Item, praecipit dominus episcopus quod fructus prioratuum episcopatus AEduensis in quibus non sunt residentes religiosi secundum exigentiam prioratuum ipsorum expendantur. 
+        </p>
+        <p xml:id="cl-0144-1-d1e125">
+          (7) Item, inhibet dominus episcopus singulis presbyteris sub poena x. librarum Turonensium sibi applicandarum, ne quis bis in die celebrare praesumat, nisi quatenus per sacros canones est permissum die Natalis Domini et Paschae, et in ecclesia altari annexa. 
+        </p>
+        <p xml:id="cl-0144-1-d1e128">
+          (8) Item, praecipit dominus episcopus quod omnes excessus quos visitando invenerint domino episcopo vel ejus officiali AEduensi mittant, vel afferant in scriptis, et nomina excedentium. 
+        </p>
+        <p xml:id="cl-0144-1-d1e131">
+          (9) Item, quod ipsi archipresbyteri domos ecclesiarum archipresbyteratuum suorum et suas ruinosas, et aedificia earumdem de fructibus ipsarum ecclesiarum reaedificari faciant, nec permittant rectores ipsarum ecclesiarum gaudere de fructibus earum, donec domus et aedificia hujusmodi reaedificata fuerint competenter. 
+        </p>
+        <p xml:id="cl-0144-1-d1e135">
+          (10) Item inhibet dominus episcopus ne alique persone littere super sententiis latis pro contumacia emanate per XVI dies a tempore quo fuerint impetrate nec petite executioni mandari ex tunc aliquatenus executioni mandantur.
+        </p>
+        <p xml:id="cl-0144-1-d1e138">
+          (11) Item, inhibet dominus episcopus, ne aliquis de sponsalibus coram judice saeculari praesumat. 
+        </p>
+        <p xml:id="cl-0144-1-d1e141">
+          (12) Item, praecipit dominus quod quotiescumque cimiteria ecclesiarum polluta fuerint quod significent domino episcopo aut officiali suo: et ita injungant ex parte domini episcopi singulis curatis archipresbyteratuum suorum. 
+        </p>
+        <p xml:id="cl-0144-1-d1e144">
+          (13) Item, non est intentionis domini episcopi quod si aliqui dicunt se exemtos a jurisdictione sua, vicariorum, vel officiorum suorum, quod non sint de jure, cum sint subjecti.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
